@@ -1,0 +1,1 @@
+"""Document checks API application package."""

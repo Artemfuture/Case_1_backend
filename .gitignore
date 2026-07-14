@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+.env
+.pytest_cache/
+app/__pycache__/
+app/core/__pycache__/
+app/models/__pycache__/
+app/schemas/__pycache__/
+app/services/__pycache__/
+migrations/__pycache__/
+tests/__pycache__/
+tests/.pytest_cache/
